@@ -1,0 +1,2 @@
+defmodule Flightex do
+end
