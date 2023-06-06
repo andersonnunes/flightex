@@ -1,6 +1,8 @@
 # Flightex
 
-**TODO: Add description**
+Desafio 01 - Reservas de voos \
+Desafio 02 - Relatório de reservas de voos \
+Desafio 03 - Testando a aplicação
 
 ## Installation
 
