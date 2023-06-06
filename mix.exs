@@ -8,7 +8,8 @@ defmodule Flightex.MixProject do
       elixir: "~> 1.14",
       elixirc_paths: elixirc_paths(Mix.env()),
       start_permanent: Mix.env() == :prod,
-      deps: deps()
+      deps: deps(),
+      test_coverage: [ignore_modules: [Flightex.Factory]]
     ]
   end
 
